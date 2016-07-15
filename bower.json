@@ -1,0 +1,21 @@
+{
+  "name": "jquery-popdown",
+  "homepage": "https://github.com/timCF/jquery-popdown",
+  "authors": [
+    "Strain <llStrainll@gmail.com>"
+  ],
+  "version":"1.0.0",
+  "description": "",
+  "main": [
+    "css/jquery.popdown.css",
+    "lib/jquery.popdown.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
